@@ -1,0 +1,40 @@
+{
+    "name": "hmd.ai",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@chakra-ui/button": "^2.0.16",
+        "@chakra-ui/icon": "^3.0.16",
+        "@chakra-ui/icons": "^2.0.17",
+        "@chakra-ui/image": "^2.0.15",
+        "@chakra-ui/input": "^2.0.19",
+        "@chakra-ui/layout": "^2.1.15",
+        "@chakra-ui/provider": "^2.1.0",
+        "@chakra-ui/spinner": "^2.0.13",
+        "@chakra-ui/system": "^2.4.0",
+        "@chakra-ui/theme": "^2.2.5",
+        "@chakra-ui/theme-tools": "^2.0.17",
+        "@emotion/react": "^11.10.5",
+        "@emotion/styled": "^11.10.5",
+        "@types/chrome": "^0.0.212",
+        "chatgpt": "^4.1.1",
+        "framer-motion": "^9.0.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "vite-tsconfig-paths": "^4.0.5"
+    },
+    "devDependencies": {
+        "@chakra-ui/cli": "^2.3.0",
+        "@types/react": "^18.0.27",
+        "@types/react-dom": "^18.0.10",
+        "@vitejs/plugin-react": "^3.1.0",
+        "typescript": "^4.9.3",
+        "vite": "^4.1.0"
+    }
+}
